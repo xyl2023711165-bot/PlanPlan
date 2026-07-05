@@ -101,4 +101,4 @@ npm start
 
 - 所有数据存储在浏览器本地 localStorage 中
 - API 配置仅保存在用户本地，不会上传到任何服务器
-- 请妥善保管你的 API Key
+- 请妥善保管你的 API Key~
